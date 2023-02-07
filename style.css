@@ -67,6 +67,6 @@ section{
     border-image-slice: 1;
 }
 footer p{
-    font-align: center;
-    font-size: 10px;
+    text-align: center;
+    font-size: 15px;
 }
